@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "trafficStreamer": {
+      "commandName": "Project",
+      "commandLineArgs": "--command WRITE --rate 0 --host 192.168.42.220"
+    }
+  }
+}
